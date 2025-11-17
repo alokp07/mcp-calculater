@@ -1,2 +1,7 @@
-# mcp-calculater
-MCP Server: calculater
+# calculater
+
+MCP Server deployed to AWS EC2
+
+## Environment Variables
+
+None
